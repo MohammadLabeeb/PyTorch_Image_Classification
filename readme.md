@@ -8,7 +8,7 @@ The PyTorch Image Classification Project is a deep learning project that aims to
 
 ## TinyVGG Architecture
 
-![TinyVGG Architecture](tinyVGG_architecture.png)
+![TinyVGG Architecture](TinyVGG_architecture.png)
 
 ## Modules
 
